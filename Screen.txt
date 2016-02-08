@@ -1,0 +1,60 @@
+@echo off
+
+color 02
+cls
+echo H
+ping localhost -n .15 >nul
+cls
+echo Ha
+ping localhost -n .15 >nul
+cls
+echo Hal
+ping localhost -n .15 >nul
+cls
+echo Hall
+ping localhost -n .15 >nul
+cls
+echo Hallo
+ping localhost -n .15 >nul
+cls
+echo Hallo 
+ping localhost -n .15 >nul
+cls
+echo Hallo m
+ping localhost -n .15 >nul
+cls
+echo Hallo me
+ping localhost -n .15 >nul
+cls
+echo Hallo mei
+ping localhost -n .15 >nul
+cls
+echo Hallo mein
+ping localhost -n .15 >nul
+cls
+echo Hallo mein S
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Sc
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Sch
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Scha
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Schat
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Schatz
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Schatz.
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Schatz..
+ping localhost -n .15 >nul
+cls
+echo Hallo mein Schatz...
+pause
